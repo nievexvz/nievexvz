@@ -1,5 +1,2 @@
-## 🗿
-New bg
-
-
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=nievexvz&layout=compact&theme=dracula)
+## 🙍🏻‍♂️
+![TopLangs](https://ghs.tineo.my.id/api/top-langs/?username=nievexvz&layout=compact&theme=dracula)
